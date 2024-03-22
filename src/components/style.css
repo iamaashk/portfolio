@@ -45,7 +45,7 @@
 
 .Name{
     padding-top: 0%;
-    margin-left: 400px;
+    margin-left: 30%;
 
     color: whitesmoke;
     font-family:  fantasy;
@@ -57,7 +57,7 @@
 
 .NameDown{
     padding-top: 0%;
-    margin-left: 400px;
+    margin-left: 30%;
 
     color: rgb(172, 171, 171);
     font-family:  fantasy;
@@ -70,8 +70,8 @@ h3{
     margin-top: 20px;
     font-size: 15px;
     padding: 0%;
-    margin-left: 400px;
-    margin-right: 350px;
+    margin-left: 30%;
+    margin-right: 30%;
     color: rgb(172, 171, 171);
     font-family:Helvetica;
     font-size: 20px;
