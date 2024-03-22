@@ -20,8 +20,10 @@ body {
 }
 .container-profile{
   background-color: #022635;
-  min-height: 645px;
   min-width: 100%;
+  height: fit-content;
+  padding-bottom: 50px;
+
 }
 .fill{
   width:100%;

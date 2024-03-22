@@ -3,8 +3,7 @@ import React from 'react'
 const Introduction = () => {
   return (
     <>
-
-        <div className='setPos'>
+       <div className='setPos'>
              <div className='start'>
                   Hi, my name is
              </div>

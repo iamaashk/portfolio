@@ -5,7 +5,9 @@ import './style.css';
 
 
 const Navbar = () => {
+
   return (
+    <>
     <nav class="navbar navbar-expand-lg bg-* ">
     <div class="container-fluid ml-auto">
       
@@ -25,6 +27,9 @@ const Navbar = () => {
       </div>
     </div>
   </nav>
+  
+  </>
+  
   );
 }
 

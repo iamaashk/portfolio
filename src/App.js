@@ -11,7 +11,7 @@ function App() {
       {/* Profile container*/}
       <div className="container-profile .example::-webkit-scrollbar">
         <Navbar/>
-        <Intro></Intro>
+        <Intro/>
       </div>
 
       {/* Projects container */}
